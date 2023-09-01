@@ -1,0 +1,21 @@
+---
+title: "readData"
+author: "Josue Sanchez Hernandez"
+format: html
+editor: visual
+---
+
+# Reading in Data 
+
+The focus of this project is to explore the Consumer Price Index databases available on the US Bureau of Labor Statistics (US BLS). This document will go over how to use the US BLS API in R to read in different databases, but specifically the price of consumer goods such as eggs, milk, and gas.
+
+```{r}
+#| label: setup
+#| include: false
+
+
+```
+
+## References
+
+-   [How to Access the Bureau of Labor Statistics API in R by Samer Hijazi](https://youtu.be/118FyvU6OSc?si=_dY8A-VzfAZUd3RW)
